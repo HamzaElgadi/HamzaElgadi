@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaElgadi engineering student in computer science hard worker and ambitious
+- 👋 Hi, I’m @HamzaElgadi engineering student in computer science, hard worker and ambitious
 - 👀 I’m interested in blockchain and building decentralized applications 
 - 🌱 I’m currently learning JavaScript and all technologies to build decentralized applications (web3.js + React.js + truffle + node.js + solidity + ethereum.js ... )
 - 💞️ I’m looking to collaborate on decentralized projects   
